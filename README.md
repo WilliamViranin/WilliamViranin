@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript ReactJS & NodeJS**
 
-- 👨‍💻 All of my projects are available at [working in progress](Work in progress)
+- 👨‍💻 All of my projects are available at [working in progress]
 
 - 📫 How to reach me **william.viranin@gmail.com**
 
