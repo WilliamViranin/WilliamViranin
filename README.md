@@ -1,11 +1,11 @@
 <h1 align="center">Welcome to my world👋, I'm William Viranin</h1>
 <h3 align="center">Always seeking the beauty in the ordinary - everything happens for a reason</h3>
 
-- 🔭 I’m currently working on my first Solo Project [A Harry Potter page](https://github.com/WilliamViranin/Wizarding-World/blob/main/index.html)
+- 🔭 I’m currently working on my first Solo Project [A Harry Potter page](https://github.com/WilliamViranin/Wizarding-World/blob/main/index.html) (Work in progress)
 
 - 🌱 I’m currently learning **JavaScript ReactJS & NodeJS**
 
-- 👨‍💻 All of my projects are available at [working in progress](working in progress)
+- 👨‍💻 All of my projects are available at [working in progress](Work in progress)
 
 - 📫 How to reach me **william.viranin@gmail.com**
 
